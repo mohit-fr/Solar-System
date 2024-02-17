@@ -1,2 +1,1 @@
-# Solar-System
-A fun project just to test out my potential, how much i know and i can apply on something like this one.
+{*click here to review the project*}[https://mohitxd-fr.github.io/Solar-System/]
